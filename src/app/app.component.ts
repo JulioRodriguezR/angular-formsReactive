@@ -21,4 +21,9 @@ export class AppComponent implements OnInit {
       password: new FormControl(null, Validators.required),
     });
   }
+
+  onSubmit() {
+    console.log(this.signupForm);
+    this.signupForm.reset();
+  }
 }
