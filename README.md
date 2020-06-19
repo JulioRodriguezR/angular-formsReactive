@@ -1,4 +1,4 @@
-# Practicing Reactive Forms
+# FormsReactive
 
 Practicing reactive Forms in [Angular](https://angular.io/).
 #
